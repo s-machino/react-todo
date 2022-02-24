@@ -39,14 +39,6 @@ button:hover {
   margin: 8px 0;
 }
 
-.input-area {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: #ccc;
-  height: 30px;
-}
-
 .input-button {
   flex: 1;
 }
